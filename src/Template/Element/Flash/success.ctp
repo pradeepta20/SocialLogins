@@ -1,0 +1,1 @@
+<div class="alert alert-success" style="width: 411px;margin-left:auto;position: relative;" onclick="this.classList.add('hidden')"><i class="ace-icon fa fa-check"></i><span style="margin-left: 5px;"><?= h($message) ?></span></div>

@@ -1,0 +1,1 @@
+<div class="alert alert-danger" style="width: 380px;margin-left: auto;" onclick="this.classList.add('hidden');"><i class="ace-icon fa fa-times"></i><span style="margin-left: 5px;"><?= h($message) ?></span></div>
